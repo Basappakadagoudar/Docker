@@ -1,6 +1,6 @@
 #we have selected ubuntu 20.04 base image 
 FROM ubuntu:20.04   
-LABEL dev="anup"
+LABEL dev="Basappa"
  
 # Install necessary packages  #update and installing neccesarry packages
 RUN apt-get update && \    
